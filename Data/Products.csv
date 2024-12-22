@@ -1,0 +1,17 @@
+ProductID,ProductName,Category,Quantity,UnitPrice,Profit
+FICTI373,Fiction,Books,6,480.48,326.83
+COMIC623,Comics,Books,2,130.49,55.91
+JACKE660,Jacket,Clothing,12,399.55,967.08
+SWEAT887,Sweater,Clothing,15,900.07,2811.1
+PHONE230,Phone,Electronics,13,707.43,1441.61
+HEADP783,Headphones,Electronics,6,665.34,890.64
+LAMP708,Lamp,Home Decor,12,787.28,2454.82
+TABLE608,Tablet,Electronics,7,564.81,414.83
+CURTA657,Curtain,Home Decor,1,767.88,76.9
+JEANS629,Jeans,Clothing,7,15.53,22.54
+T-SHI686,T-Shirt,Clothing,2,795.98,141
+RUG683,Rug,Home Decor,13,26.46,75.05
+LAPTO110,Laptop,Electronics,17,775.32,2000.79
+NON-F596,Non-Fiction,Books,19,711.81,1535.03
+BIOGR791,Biography,Books,9,633.48,1595.54
+MIRRO159,Mirror,Home Decor,11,674.81,1822.2
